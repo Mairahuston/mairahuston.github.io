@@ -1,2 +1,2 @@
-# mairahuston.githug.io
+# mairahuston.github.io
 Website 
